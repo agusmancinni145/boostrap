@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    border: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.footer{
+    height: 100px;
+    background-color: rgba(5, 5, 255, 0.637);
+    border: solid 2px;
+    padding: 5px;
+}
